@@ -1,0 +1,2 @@
+# SimplePDFMerger
+デスクトップ向けPDF結合アプリケーション
